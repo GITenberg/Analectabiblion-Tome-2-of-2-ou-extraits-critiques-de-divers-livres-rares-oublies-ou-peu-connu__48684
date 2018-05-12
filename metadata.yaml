@@ -1,10 +1,16 @@
 _repo: Analectabiblion-Tome-2-of-2-ou-extraits-critiques-de-divers-livres-rares-oublies-ou-peu-connu__48684
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48684-h/images/cover.jpg
 creator:
   author:
     agent_name: Roure, Auguste François Louis Du
     gutenberg_agent_id: '44921'
     url: http://www.gutenberg.org/2009/agents/44921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48684#Analectabiblion-Tome-2-of-2-ou-extraits-critiques-de-divers-livres-rares-oublies-ou-peu-connu_
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2015-04-11'
 gutenberg_type: Text
